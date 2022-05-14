@@ -1,0 +1,3 @@
+show
+remove_by_id 12
+execute_script huesos.txt
